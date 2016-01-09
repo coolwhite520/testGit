@@ -3,6 +3,8 @@
 int main()
 {
 	int c = add(1,2);
-	printf("Hello,world.Git Good!");
+	printf("c=%d\n",c);
+	printf("Hello,world.Git Good!\n");
+
 	return 0;
 }

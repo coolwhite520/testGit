@@ -1,4 +1,5 @@
-//hahhahahhahahahahha
+#include <stdio.h>
+
 int add(int a,int b)
 {
 	int c = a + b;
@@ -12,8 +13,8 @@ int sub(int a,int b)
 
 void make()
 {
-	for(int i = 0 ;i<100;i++)
-		printf("make")
+	int i =0;
+	for(;i<100;i++)
+		printf("make");
 	return;
 }
-//xixixixixi
